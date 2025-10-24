@@ -8,3 +8,6 @@ Gaining practical experience and exploring career opportunities in software deve
 <div align="left">
   <img src="https://github.com/ThePeerr/ThePeerr/blob/681490807413b0e1ade0083ed0b6d16a13d8fd03/assets/blue_dragon.gif?raw=true">
 </div>
+
+![Иллюстрация к проекту](https://raw.githubusercontent.com/ThePeerr/ThePeerr/refs/heads/main/assets/blue_dragon.gif)
+

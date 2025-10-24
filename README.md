@@ -3,11 +3,11 @@
 Currently learning Python and GitHub.<br />
 Primary OS: Windows.<br />
 Always open to feedback and code reviews.<br />
-Gaining practical experience and exploring career opportunities in software development.<br />
+Gaining practical experience.<br />
+Exploring career opportunities.<br />
 
 <div align="left">
-  <img src="https://github.com/ThePeerr/ThePeerr/blob/681490807413b0e1ade0083ed0b6d16a13d8fd03/assets/blue_dragon.gif?raw=true">
+  <img src="https://raw.githubusercontent.com/ThePeerr/ThePeerr/refs/heads/main/assets/blue_dragon.gif" width="300" height="200">
 </div>
 
-![Иллюстрация к проекту](https://raw.githubusercontent.com/ThePeerr/ThePeerr/refs/heads/main/assets/blue_dragon.gif)
 

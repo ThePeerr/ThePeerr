@@ -7,7 +7,7 @@ Gaining practical experience.<br />
 Exploring career opportunities.<br />
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ThePeerr/ThePeerr/refs/heads/main/assets/blue_dragon.gif" width="32%" height="32%">
+  <img src="https://raw.githubusercontent.com/ThePeerr/ThePeerr/refs/heads/main/assets/blue_dragon.gif" width="260" height="178">
 </div>
 
 

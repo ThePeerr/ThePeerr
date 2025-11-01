@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="20" viewBox="0 0 216 20">
+  <rect x="0.75" y="3" width="214" height="15" rx="7.5" ry="7.5" fill="none" stroke="#3d444d" stroke-width="1"/>
+  <defs>
+    <clipPath id="capsuleClip">
+      <rect x="0.75" y="3" width="214" height="15" rx="7.5" ry="7.5"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#capsuleClip)">
+    <text y="11.7" font-family="Segoe UI.ttf" font-size="14" fill="#ffffff" dominant-baseline="middle">
+      ♫ Death - Spiritual Healing 7:45
+      <animate attributeName="x" from="0" to="-227" dur="11.35s" repeatCount="indefinite"/>
+    </text>
+    <text y="11.7" font-family="Segoe UI.ttf" font-size="14" fill="#ffffff" dominant-baseline="middle">
+      ♫ Death - Spiritual Healing 7:45
+      <animate attributeName="x" from="227" to="0" dur="11.35s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
